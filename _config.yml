@@ -1,0 +1,14 @@
+layout_spectrum: 0.8971251950133592
+typography_spectrum: 0.08383348328061402
+color:
+  brandStrength: 0.7339332064148039
+  lightness: 0.8259490181226283
+  saturation: 0.9540755953639746
+  rhythmicContrast: 0.12815911252982914
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: DN Telehealth
