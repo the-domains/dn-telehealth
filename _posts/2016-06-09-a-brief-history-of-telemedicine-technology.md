@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://info.digitalnoema.com/blog/a-brief-history-of-telemedicine-technology'
 title: A Brief History of Telemedicine Technology
-datePublished: '2016-06-09T01:46:41.080Z'
-dateModified: '2016-06-09T01:46:18.905Z'
+datePublished: '2016-06-09T01:47:36.353Z'
+dateModified: '2016-06-09T01:46:35.200Z'
 starred: false
 sourcePath: _posts/2016-06-09-a-brief-history-of-telemedicine-technology.md
 inFeed: true
